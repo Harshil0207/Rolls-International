@@ -17,7 +17,4 @@ npm run dev
 ![cart](https://github.com/user-attachments/assets/23b8c680-1d0d-43ee-93e0-1c1e62d93f69)
 ![delivery information](https://github.com/user-attachments/assets/82a2f92b-61e9-4c21-976b-575898aefd71)
 ![track order](https://github.com/user-attachments/assets/c931601c-45d0-4825-8fc7-d815c4bedfbd)
-![admin login](https://github.![add Items ](https://github.com/user-attachments/assets/68f8f226-3f99-40e6-82bf-ddf97d8726b6)
-![list items](https://github.com/user-attachments/assets/39d505f8-9388-4e91-9a5d-63184507b4d8)
-![user placed order](https://github.com/user-attachments/assets/1ee2a64f-d1b0-4956-9d80-273594fb2ff7)
 
